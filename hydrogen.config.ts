@@ -4,7 +4,7 @@ export default defineConfig({
   shopify: {
     defaultCountryCode: 'US',
     defaultLanguageCode: 'EN',
-    storeDomain: 'junichiokamurasp.myshopify.coma',
+    storeDomain: 'junichiokamurasp.myshopify.com',
     storefrontToken: 'be51542e748258b09fcaf265ccc5336a',
     storefrontApiVersion: '2022-07',
   },
